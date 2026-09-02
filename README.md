@@ -15,6 +15,9 @@ Welcome to my portfolio! Below you will find the details, live visuals, and down
 ---
 
 ## 📈 Project 2: Excel Dashboard
-* **Project Goal:** Insert a brief description of your Excel dashboard project here.
+* **Project Goal:** Data manipulation, formula architecture, and dynamic reporting.
 * **Key Tools:** Microsoft Excel, Pivot Tables, VLOOKUP/XLOOKUP, Dynamic Charts.
-* **Download File:** *[Upload your Excel file and link it here]*
+* **Download File:** [📥 Click here to download Excel project file](./Natraj%20analysis%20data.xlsx)
+
+### Dashboard Preview:
+![Excel Dashboard](./Natraj%20store%20Data%20analysis.png)
